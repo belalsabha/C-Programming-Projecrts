@@ -6,4 +6,4 @@ This Repo contains practical C programming projects and applications:
 - 🔗 Student Database using Linked List
 - 🏫 School Management System Project
 
-⭐ If you like the repository, don't forget to give it a star!
+⭐ Don't forget to give the repository a star.
