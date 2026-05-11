@@ -1,13 +1,9 @@
 # 📘 C Programming Projects
 
-## 📂 Repository Contents
+This section contains practical C programming projects and applications:
 
-| Project | Description |
-|---------|-------------|
-| **Simple Student DataBase using Arrays** | A basic student information system implemented using arrays |
-| **Student Data Base Using Linked List** | Student database system using a Linked List for dynamic storage |
-| **School Management System Project** | A larger project for managing school data (students, subjects, registration) |
+- 🧮 Simple Student Database using Arrays
+- 🔗 Student Database using Linked List
+- 🏫 School Management System Project
 
----
-
-## ⭐ If you like the repo, consider giving it a Star!
+⭐ If you like the repository, don't forget to give it a star!
