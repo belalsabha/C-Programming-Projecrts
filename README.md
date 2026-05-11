@@ -1,6 +1,6 @@
 # 📘 C Programming Projects
 
-This section contains practical C programming projects and applications:
+This Repo contains practical C programming projects and applications:
 
 - 🧮 Simple Student Database using Arrays
 - 🔗 Student Database using Linked List
